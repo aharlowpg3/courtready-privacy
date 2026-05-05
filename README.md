@@ -106,7 +106,7 @@ Regardless of where you live, you have the following rights with your data in Co
 
 - **See what we have** — email us and we'll send you a copy
 - **Correct it** — most data you can edit directly in the app; for anything else, email us
-- **Delete it** — you can delete athletes, workouts, and sessions yourself in the app, or email us to delete your entire account
+- **Delete it** — Delete it — you can delete athletes, workouts, and sessions yourself in the app. To delete your entire account and all associated data, open the Account menu (top-right user icon) and tap "Delete account & all data". This permanently removes your account and is irreversible. You can also email us if you prefer.
 - **Take it elsewhere** — email us and we'll send your data in a portable format (JSON)
 - **Withdraw consent** — stop using the app and email us to delete your account
 
